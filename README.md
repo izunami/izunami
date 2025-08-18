@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Thuan Nguyen
-- 🤖 Not a “real” dev — just copycat things from the Internet and make it *work on my machine*.  
+- 🤖 Not a “real” dev — just a professional Ctrl+C & Ctrl+V engineer, as long as it works on my machine.  
 
 ---
 
