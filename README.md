@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Thuan Nguyen
+- 🤖 Not a “real” dev — just copycat things from the Internet and make it *work on my machine*.  
 
-<!--
-**izunami/izunami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=34306&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=34306&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=34306&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=34306&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+### 🌐 Contact
+- ✉️ Email: info@vnbit.io.vn  
