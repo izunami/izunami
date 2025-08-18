@@ -3,26 +3,25 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
+### 📊 GitHub Stats  —  <sub>🌑 Dark (default) / 🌕 Light (click to open)</sub>
 
-  <!-- Stats -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=izunami&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=izunami&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="160" />
-  </picture>
+<!-- DARK (default open) -->
+<details open>
+  <summary>🌑 Dark theme</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=izunami&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izunami&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" />
+  </p>
+</details>
 
-  <!-- Top Languages -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=izunami&layout=compact&langs_count=8&theme=default&hide_border=true#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izunami&layout=compact&langs_count=8&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="160" />
-  </picture>
-
-</p>
+<!-- LIGHT (click to view) -->
+<details>
+  <summary>🌕 Light theme</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=izunami&show_icons=true&theme=default&hide_border=true" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izunami&layout=compact&langs_count=8&theme=default&hide_border=true" height="160" />
+  </p>
+</details>
 
 ---
 
@@ -51,4 +50,4 @@
 ---
 
 ### 🌐 Contact
-- ✉️ Email: info@vnbit.io.vn  
+- ✉️ Email: info@vnbit.io.vn
