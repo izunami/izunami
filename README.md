@@ -6,21 +6,9 @@
 ### 📊 GitHub Stats
 <p align="center">
 
-  <!-- Stats -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=izunami&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=izunami&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="160" />
-  </picture>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=izunami&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <!-- Top Languages -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=izunami&layout=compact&langs_count=8&theme=default&hide_border=true#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izunami&layout=compact&langs_count=8&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="160" />
-  </picture>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izunami&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -28,27 +16,21 @@
 
 ### 🔥 Streak
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com?user=izunami&theme=default&hide_border=true#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://streak-stats.demolab.com?user=izunami&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="160" />
-  </picture>
+
+<img height="160" src="https://streak-stats.demolab.com?user=izunami&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=izunami&theme=flat&no-frame=true&row=1&column=6#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-profile-trophy.vercel.app/?username=izunami&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6#gh-dark-mode-only" />
-  </picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=izunami&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
 </p>
 
 ---
 
 ### 🌐 Contact
-- ✉️ Email: info@vnbit.io.vn  
+- ✉️ Email: info@vnbit.io.vn
